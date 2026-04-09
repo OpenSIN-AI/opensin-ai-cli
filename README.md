@@ -97,6 +97,12 @@ OpenSIN-AI CLI ist Teil des umfassendsten AI Agent Systems der Welt:
 | **17 Teams** | [OpenSIN-overview](https://github.com/OpenSIN-AI/OpenSIN-overview) | 92 Worker Agents (Apple, Google, Microsoft, etc.) |
 | **7 MCP Server** | [OpenSIN-overview](https://github.com/OpenSIN-AI/OpenSIN-overview) | Chrome Extension, Computer Use, Memory, Auth |
 
+## 🧭 OpenSIN-AI Agent Roadmap
+
+- Feature spec: [OpenSIN-overview/docs/opensin-ai-agent-feature-spec.md](https://github.com/OpenSIN-AI/OpenSIN-overview/blob/main/docs/opensin-ai-agent-feature-spec.md)
+- Comparison guide: [OpenSIN-documentation/docs/guide/opensin-ai-agent-features.md](https://github.com/OpenSIN-AI/OpenSIN-documentation/blob/main/docs/guide/opensin-ai-agent-features.md)
+- This repo is the Rust CLI runtime surface for the orchestrator-aware OpenSIN-AI Agent stack.
+
 ## 🐳 Local Development
 
 ```bash
