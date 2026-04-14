@@ -5,7 +5,7 @@
     "onFailure": "/Users/jeremy/dev/opensin-ai-cli/.opencode/hooks/pcpm-after-run.sh"
   },
   "pcpm": {
-    "brainRepoPath": "/Users/jeremy/dev/opensin-ai-cli",
+    "brainRepoPath": "/Users/jeremy/dev/global-brain",
     "projectId": "opensin-ai-cli",
     "goalId": "default-goal",
     "goalDescription": "Continue development",
